@@ -259,3 +259,135 @@ margin-top: 100px;
 .blog__icon-features {
     padding-right: 5px;
 }
+
+/* Choose */
+
+.choose {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.container {
+
+}
+
+.commons__choose-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.choose__text-top {
+
+}
+
+.choose__text-title {
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 143%;
+    text-align: center;
+    color: #0b132a;
+}
+
+.choose__text-subtitle {
+    padding-top: 20px;
+    padding-bottom: 60px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 187%;
+    text-align: center;
+    color: #4f5665;
+}
+
+.container__card-commons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card__img {
+    padding-top: 80px;
+}
+
+.card__all {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: space-between; */
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    width: 330px;
+    height: 760px;
+    background: #fff;
+    
+}
+
+.one__card {
+    
+}
+
+.name__card-choose {
+    padding-top: 30px;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 120%;
+    text-align: center;
+    color: #0b132a;
+}
+
+
+
+.choose__list-text {
+    padding-top: 30px;
+}
+
+.choose__items-text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 214%;
+    color: #4f5665;
+}
+
+.blog__icon-choose {
+
+}
+
+.bottom__card-choose {
+
+}
+
+.card__bottom-prise {
+    padding-top: 130px;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 120%;
+    text-align: center;
+    color: #0b132a;
+}
+.btn__choose {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border: 2px solid #f53838;
+    border-radius: 50px;
+    width: 177px;
+    height: 45px;
+}
+
+.card__bottom-btn {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 16px;
+    color: #f53838;
+}
+
+
+.two__card {
+
+}
+
+.three__card {
+
+}
